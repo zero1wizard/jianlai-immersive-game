@@ -1,0 +1,10 @@
+{
+  "name": "jianlai-immersive-game",
+  "version": "0.1.1",
+  "private": true,
+  "description": "CLI prototype for an original cultivation politics immersive game inspired by Jianlai vibes",
+  "scripts": {
+    "start": "node src/main.js",
+    "check": "node --check src/main.js && node --check src/systems.js"
+  }
+}
